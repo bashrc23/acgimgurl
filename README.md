@@ -10,3 +10,13 @@ img：直接显示图片不返回图片链接
 www.toubiec.cn
 
 源码已永久停止更新！
+
+https://api.pixivweb.com/bw.php?return=img
+https://api.ixxcc.com/cosplay.php?return=img
+
+magnet:?xt=urn:btih:022F2F231862EC3DD6D2B7B71669F38514578054&dn=秀人网2K套图(10万PIC)
+
+ 3W多张COSPLAY图片 941.zip
+ magnet:?xt=urn:btih:a6b55251586718dbd739818b163353760bd9adfe&dn=941.zip
+ 
+ 
